@@ -1,0 +1,49 @@
+_repo: Notes-of-a-War-Correspondent_3050
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Remington, Frederic
+    alias: Remington, Frederic Sackrider
+    birthdate: 1861
+    deathdate: 1909
+    gutenberg_agent_id: '2565'
+    url: http://www.gutenberg.org/2009/agents/2565
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Remington
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: These riveting accounts of war-time battles and events are an invaluable
+  firsthand look at history in the making. Davis reported from front lines all over
+  the globe, including Greek-Turkish War, the Spanish-American War, the Second Boer
+  War, and the First World War.
+gutenberg_bookshelf:
+- Spanish American War
+- Boer War
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russo-Japanese War, 1904-1905'
+- !lcsh 'South African War, 1899-1902'
+- !lcc 'D'
+- !lcsh 'Spanish-American War, 1898'
+- !lcsh 'Davis, Richard Harding, 1864-1916'
+- !lcsh 'Greco-Turkish War, 1897'
+- !lcsh 'Military history, Modern'
+- !lcsh 'Cuba -- History -- Revolution, 1895-1898'
+- GITenberg
+tableOfContents: The Cuban-Spanish war -- The Greek-Turkish war -- The Spanish-American
+  war -- The South African war -- The Japanese-Russian war -- A war correspondent's
+  kit
+title: Notes of a War Correspondent
+url: http://www.gutenberg.org/ebooks/3050
